@@ -1,4 +1,4 @@
-
+###Example###
 from encryption_algorythm import encrypt
 
 hash_start = "$#"
