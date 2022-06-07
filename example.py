@@ -3,9 +3,9 @@ from encryption_algorythm import encrypt
 
 hash_start = "$#"
 char_str = ' !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ'
-hash_length = 52
-key1 = 1
-key2 = 2
+hash_length = 128
+key1 = 7
+key2 = 3
 
 string = input("Encrypt: ")
 
