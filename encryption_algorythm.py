@@ -2,7 +2,7 @@
 ###https://github.com/Jero075/Encryption-Algorythm###
 
 ###Encryption function###
-def encrypt(string, hash_start, hash_length, key1, key2, char_str):
+def encrypt(string, key1, key2, char_str, hash_start="", hash_length=128):
     for i in range(len(string)):
         for n in range(len(char_str)):
             if string[i] == char_str[n]:
