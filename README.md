@@ -1,8 +1,8 @@
-# Encryption-Algorythm
+# Encryption-Algorithm
 
-!!!DO NOT use this algorythm to encrypt passwords for public projects as I am not an expert in this field!!!
+!!!DO NOT use this algorithm to encrypt passwords for public projects as I am not an expert in this field!!!
 
-An algorythym to encrypt a string of any length.
+An algorithm to encrypt a string of any length.
 
 Parameters:
   - string = The string that you want to encrypt
