@@ -1,8 +1,8 @@
-###---Encryption Algorythm--- by Jeroen Leuenberger###
-###https://github.com/Jero075/Encryption-Algorythm###
+###Hashing Algorithm by Jeroen Leuenberger###
+###https://github.com/Jero075/Hashing-Algorithm###
 
-###Encryption function###
-def encrypt(string, key1, key2, char_str, hash_start="", hash_length=128):
+###Hash function###
+def hash(string, key1, key2, char_str, hash_start="", hash_length=128):
     for i in range(len(string)):
         for n in range(len(char_str)):
             if string[i] == char_str[n]:
