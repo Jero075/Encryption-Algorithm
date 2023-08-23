@@ -2,7 +2,7 @@
 
 !!!DO NOT use this algorithm for public projects as I am not an expert in this field!!!
 
-An algorithm to generate hashes out of strings of any length.
+An algorithm to generate hashes from strings of any length.
 
 Parameters:
   - string
